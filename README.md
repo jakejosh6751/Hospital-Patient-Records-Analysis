@@ -1,1 +1,9 @@
-# Hospital-Patient-Records-Analysis
+# Hospital Patient Records Analysis
+
+
+
+## Key Insights
+
+## Recommendation
+
+## Data Modeling
