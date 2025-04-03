@@ -3,3 +3,6 @@ This project analyses hospital patient records to identify trends in patient dem
 
 ![hospital patient encounters analysis_1.jpg](https://github.com/jakejosh6751/Hospital-Patient-Records-Analysis/blob/main/hospital%20patient%20encounters%20analysis_1.jpg)
 ![hospital patient encounters analysis_2.jpg](https://github.com/jakejosh6751/Hospital-Patient-Records-Analysis/blob/main/hospital%20patient%20encounters%20analysis_2.jpg)
+
+## SQL Query
+![SQL query.png](https://github.com/jakejosh6751/Hospital-Patient-Records-Analysis/blob/main/SQL%20query.png)
