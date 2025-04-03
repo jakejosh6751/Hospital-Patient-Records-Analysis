@@ -7,5 +7,3 @@ This project analyses hospital patient records to identify trends in patient dem
 ## Key Insights
 
 ## Recommendation
-
-## Data Modeling
